@@ -6291,10 +6291,10 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-bitmovin-player@^8.52.0:
-  version "8.52.0"
-  resolved "https://registry.yarnpkg.com/bitmovin-player/-/bitmovin-player-8.52.0.tgz#40f4d43d2afc365e15a27147f322d377610ea450"
-  integrity sha512-UckCP31JMxUp5FZd5tfY6UO8qpGzjApl14n53/lzGjwlo7u1AJaXCf09cM3qmoej/FLGnViuC2BbCFtSnqzZAQ==
+bitmovin-player@^8.77.0:
+  version "8.78.0"
+  resolved "https://registry.yarnpkg.com/bitmovin-player/-/bitmovin-player-8.78.0.tgz#c0720a4796032b6c086bb3ebc9d4bed8409e5b34"
+  integrity sha512-tQa7fltE0tAMTh0vm7UO+0x9ift7PA/su7cqjHZ/vo7KSl29Hj/xR6fi7qetSQ9gReFx3F6FHVexggL74L3+jQ==
 
 bl@^4.0.3:
   version "4.0.3"
@@ -8576,8 +8576,6 @@ domhandler@^2.3.0:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/domhandler/-/domhandler-2.4.2.tgz#8805097e933d65e85546f726d60f5eb88b44f803"
   integrity sha512-JiK04h0Ht5u/80fdLMCEmV4zkNh2BcoMFBmZ/91WtYZ8qVXSKjiw7fXMgFPnHcSZgOo3XdinHvmnDUeMf5R4wA==
-  dependencies:
-    domelementtype "1"
 
 domhandler@^3.0.0:
   version "3.0.0"
