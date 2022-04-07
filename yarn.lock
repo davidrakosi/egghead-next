@@ -345,23 +345,6 @@
   version "7.12.3"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.12.3.tgz#1b436884e1e3bff6fb1328dc02b208759de92ad8"
   integrity sha512-0qXcZYKZp3/6N2jKYVxZv0aNCsxTSVCiK72DTiTYZAu7sjg73W0/aynWjMbiGd87EQL4WyA8reiJVh92AVla9g==
-  dependencies:
-    "@babel/code-frame" "^7.10.4"
-    "@babel/generator" "^7.12.1"
-    "@babel/helper-module-transforms" "^7.12.1"
-    "@babel/helpers" "^7.12.1"
-    "@babel/parser" "^7.12.3"
-    "@babel/template" "^7.10.4"
-    "@babel/traverse" "^7.12.1"
-    "@babel/types" "^7.12.1"
-    convert-source-map "^1.7.0"
-    debug "^4.1.0"
-    gensync "^1.0.0-beta.1"
-    json5 "^2.1.2"
-    lodash "^4.17.19"
-    resolve "^1.3.2"
-    semver "^5.4.1"
-    source-map "^0.5.0"
 
 "@babel/generator@^7.0.0", "@babel/generator@^7.12.5", "@babel/generator@^7.8.4":
   version "7.12.5"
@@ -6291,10 +6274,10 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-bitmovin-player@^8.52.0:
-  version "8.52.0"
-  resolved "https://registry.yarnpkg.com/bitmovin-player/-/bitmovin-player-8.52.0.tgz#40f4d43d2afc365e15a27147f322d377610ea450"
-  integrity sha512-UckCP31JMxUp5FZd5tfY6UO8qpGzjApl14n53/lzGjwlo7u1AJaXCf09cM3qmoej/FLGnViuC2BbCFtSnqzZAQ==
+bitmovin-player@^8.81.0:
+  version "8.82.0"
+  resolved "https://registry.yarnpkg.com/bitmovin-player/-/bitmovin-player-8.82.0.tgz#d08cfdabfb78e3e3a9e4cf6cfb5d90595ba2eb59"
+  integrity sha512-ePMPvQxA0yIs3OY6tYuJtklnOxmxRENM4W0a4IeCeD576GX+Yy7ftYfuLOToFP9cQt/9XHNLIyeo56j4L2Nehg==
 
 bl@^4.0.3:
   version "4.0.3"
