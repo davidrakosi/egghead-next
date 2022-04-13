@@ -6291,10 +6291,10 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-bitmovin-player@^8.52.0:
-  version "8.52.0"
-  resolved "https://registry.yarnpkg.com/bitmovin-player/-/bitmovin-player-8.52.0.tgz#40f4d43d2afc365e15a27147f322d377610ea450"
-  integrity sha512-UckCP31JMxUp5FZd5tfY6UO8qpGzjApl14n53/lzGjwlo7u1AJaXCf09cM3qmoej/FLGnViuC2BbCFtSnqzZAQ==
+bitmovin-player@^8.81.0:
+  version "8.83.0"
+  resolved "https://registry.yarnpkg.com/bitmovin-player/-/bitmovin-player-8.83.0.tgz#b8054436ad57ce58e6876beb8ea23fc0a02fa3b7"
+  integrity sha512-bW4kNFXfkYqyBrtYliGQpEKX9O2CgviLm2J09G2T5ejJRoFYpWQFaF/BJb5TZnCxsVbWRi+aWd1w8YgZheJJCg==
 
 bl@^4.0.3:
   version "4.0.3"
